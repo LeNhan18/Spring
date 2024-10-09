@@ -1,0 +1,91 @@
+{
+  "user": [
+    {
+      "id": "1",
+      "UserName": "nhin",
+      "Password": "12345",
+      "phone": "0123456789"
+    },
+    {
+      "id": "2",
+      "UserName": "nhin",
+      "Password": "12345",
+      "phone": "0123456789"
+    }
+  ],
+  "category": [
+    {
+      "id": "1",
+      "category": "NIKE"
+    },
+    {
+      "id": "2",
+      "category": "ADIDAS"
+    }
+  ],
+  "product": [
+    {
+      "id": "1",
+      "tensp": "GIÀY PUMA RBD GAME LOW NAM",
+      "anh": "product1.jpg",
+      "gia": "1890000",
+      "giaold": "2650000",
+      "motasp": "GIÀY PUMA RBD GAME LOW NAM đã không còn là cái tên xa lạ với người tiêu dùng. Không chỉ là hình ảnh trẻ trung, năng động và gần gũi giới trẻ, giày thể thao Biti’s còn mang lại sự thoải mái và thời trang. Giày Thể Thao Thông Dụng Nam Biti’s BSM000700 được rất nhiều bạn trẻ lựa chọn bởi kiểu dáng đơn giản nhưng không kém phần tinh tế và sang trọng. Để biết thêm chi tiết về sản phẩm, hãy tham khảo bài viết dưới đây.",
+      "category": "NIKE",
+      "sale": 20,
+      "tonkho": 800
+    },
+    {
+      "id": "3",
+      "tensp": "Giày Thể Thao Thông Dụng Nam Biti's Basic",
+      "gia": 590000,
+      "giaold": 950000,
+      "anh": "product3.jpg",
+      "motasp": "GIÀY PUMA RBD GAME LOW NAM đã không còn là cái tên xa lạ với người tiêu dùng. Không chỉ là hình ảnh trẻ trung, năng động và gần gũi giới trẻ, giày thể thao Biti’s còn mang lại sự thoải mái và thời trang. Giày Thể Thao Thông Dụng Nam Biti’s BSM000700 được rất nhiều bạn trẻ lựa chọn bởi kiểu dáng đơn giản nhưng không kém phần tinh tế và sang trọng. Để biết thêm chi tiết về sản phẩm, hãy tham khảo bài viết dưới đây.",
+      "category": "NIKE",
+      "sale": 20,
+      "tonkho": 800
+    },
+    {
+      "id": "4",
+      "tensp": "Giày Thể Thao Nam Hunter X - Dune OTP Real edition ",
+      "gia": 790000,
+      "giaold": 1550000,
+      "anh": "product4.jpg",
+      "motasp": "GIÀY PUMA RBD GAME LOW NAM đã không còn là cái tên xa lạ với người tiêu dùng. Không chỉ là hình ảnh trẻ trung, năng động và gần gũi giới trẻ, giày thể thao Biti’s còn mang lại sự thoải mái và thời trang. Giày Thể Thao Thông Dụng Nam Biti’s BSM000700 được rất nhiều bạn trẻ lựa chọn bởi kiểu dáng đơn giản nhưng không kém phần tinh tế và sang trọng. Để biết thêm chi tiết về sản phẩm, hãy tham khảo bài viết dưới đây.",
+      "category": "NIKE",
+      "sale": 20,
+      "tonkho": 800
+    },
+    {
+      "id": "5",
+      "tensp": "Giày Thể Thao Nam Hunter X - Dune OTP Real White edition",
+      "gia": 290000,
+      "giaold": 550000,
+      "anh": "product5.jpg",
+      "motasp": "GIÀY PUMA RBD GAME LOW NAM đã không còn là cái tên xa lạ với người tiêu dùng. Không chỉ là hình ảnh trẻ trung, năng động và gần gũi giới trẻ, giày thể thao Biti’s còn mang lại sự thoải mái và thời trang. Giày Thể Thao Thông Dụng Nam Biti’s BSM000700 được rất nhiều bạn trẻ lựa chọn bởi kiểu dáng đơn giản nhưng không kém phần tinh tế và sang trọng. Để biết thêm chi tiết về sản phẩm, hãy tham khảo bài viết dưới đây.",
+      "category": "NIKE",
+      "sale": 20,
+      "tonkho": 800
+    },
+    {
+      "id": "6",
+      "tensp": "Giày Thể Thao Nam Hunter X - Dune OTP Real White edition",
+      "gia": 290000,
+      "giaold": 550000,
+      "anh": "product5.jpg",
+      "motasp": "GIÀY PUMA RBD GAME LOW NAM đã không còn là cái tên xa lạ với người tiêu dùng. Không chỉ là hình ảnh trẻ trung, năng động và gần gũi giới trẻ, giày thể thao Biti’s còn mang lại sự thoải mái và thời trang. Giày Thể Thao Thông Dụng Nam Biti’s BSM000700 được rất nhiều bạn trẻ lựa chọn bởi kiểu dáng đơn giản nhưng không kém phần tinh tế và sang trọng. Để biết thêm chi tiết về sản phẩm, hãy tham khảo bài viết dưới đây.",
+      "category": "ADIDAS",
+      "sale": 20,
+      "tonkho": 800
+    },
+    {
+      "id": "7",
+      "tensp": "Vinhbill",
+      "anh": "Untitled.png",
+      "gia": "113113",
+      "giaold": "12000000",
+      "category": "ADIDAS"
+    }
+  ]
+}

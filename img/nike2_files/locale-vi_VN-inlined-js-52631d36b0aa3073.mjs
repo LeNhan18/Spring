@@ -1,0 +1,2 @@
+(self.__LOADABLE_LOADED_CHUNKS__=self.__LOADABLE_LOADED_CHUNKS__||[]).push([[93545],{715418:(_,r,e)=>{var l={locale:"vi-VN",i18nStrings:void 0,plural:e(84996)};_.exports=l},84996:_=>{_.exports=function(_){return 0}}}]);
+//# sourceMappingURL=https://sm.pinimg.com/webapp/locale-vi_VN-inlined-js-52631d36b0aa3073.mjs.map
